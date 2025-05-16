@@ -12,9 +12,9 @@ Here are some projects we support / use / maintain.
 * [libsbf](https://github.com/saronic-technologies/libsbf-rs)
 * [libpid](https://github.com/saronic-technologies/libpid-rs)
 * [systemctl](https://github.com/saronic-technologies/systemctl-rs)
-* [rust-cuda]https://github.com/Rust-GPU/Rust-CUDA
-* [libinfer]https://github.com/saronic-technologies/libinfer
-* [libdebayer]https://github.com/saronic-technologies/libdebayer
+* [rust-cuda](https://github.com/Rust-GPU/Rust-CUDA)
+* [libinfer](https://github.com/saronic-technologies/libinfer)
+* [libdebayer](https://github.com/saronic-technologies/libdebayer)
 
 
 ## Join our team
